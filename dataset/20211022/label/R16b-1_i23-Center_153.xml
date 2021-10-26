@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R16b-1_i23-Center_153.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R16b-1_i23-Center_153.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>975.6417183348095</xmin>
+        <ymin>1358.7076815230225</ymin>
+        <xmax>1031.2157883082373</xmax>
+        <ymax>1421.130128394333</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1027.1729406554473</xmin>
+        <ymin>1780.4512987012988</ymin>
+        <xmax>1179.099534986714</xmax>
+        <ymax>1825.1628541912635</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>970.2955048715677</xmin>
+        <ymin>1439.7458677685952</ymin>
+        <xmax>1245.9332373782108</xmax>
+        <ymax>1525.9839138134594</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>966.047497785651</xmin>
+        <ymin>1646.316632231405</ymin>
+        <xmax>1093.8256200177148</xmax>
+        <ymax>1760.785935655254</ymax>
+    </bndbox>
+</object>
+</annotation>

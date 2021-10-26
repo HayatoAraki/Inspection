@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R16b-1_i90-Cell_234.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R16b-1_i90-Cell_234.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>974.6038529672276</xmin>
+        <ymin>2085.0955209563167</ymin>
+        <xmax>1034.8724534986713</xmax>
+        <ymax>2141.292613636364</ymax>
+    </bndbox>
+</object>
+</annotation>
