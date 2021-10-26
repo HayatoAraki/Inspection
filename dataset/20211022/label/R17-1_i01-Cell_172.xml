@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R17-1_i01-Cell_172.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R17-1_i01-Cell_172.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1476.2669397697075</xmin>
+        <ymin>1414.603158205431</ymin>
+        <xmax>1519.5676483613815</xmax>
+        <ymax>1462.8255239079103</ymax>
+    </bndbox>
+</object>
+</annotation>

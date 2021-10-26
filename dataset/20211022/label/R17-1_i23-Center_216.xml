@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R17-1_i23-Center_216.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R17-1_i23-Center_216.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1862.4614703277234</xmin>
+        <ymin>1545.866440377804</ymin>
+        <xmax>1918.0596767050486</xmax>
+        <ymax>1612.58389905549</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1863.3062444641275</xmin>
+        <ymin>1649.3327922077924</ymin>
+        <xmax>1927.762511071745</xmax>
+        <ymax>1711.0916838842977</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1865.514725420726</xmin>
+        <ymin>1739.9020439787487</ymin>
+        <xmax>1914.6685119574843</xmax>
+        <ymax>1767.4335522432116</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1849.6209034543842</xmin>
+        <ymin>1802.3968786894925</ymin>
+        <xmax>1931.9743135518156</xmax>
+        <ymax>1845.1660271546637</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1852.7827723649245</xmin>
+        <ymin>1869.8020218417946</ymin>
+        <xmax>1921.8128875110715</xmax>
+        <ymax>1894.908537485242</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1805.5719663418954</xmin>
+        <ymin>137.150826446281</ymin>
+        <xmax>1841.4386625332152</xmax>
+        <ymax>189.65613931523023</ymax>
+    </bndbox>
+</object>
+</annotation>

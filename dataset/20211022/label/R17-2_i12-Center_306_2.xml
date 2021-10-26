@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R17-2_i12-Center_306_2.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R17-2_i12-Center_306_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1041.292736935341</xmin>
+        <ymin>780.0634223730815</ymin>
+        <xmax>1102.4664526129318</xmax>
+        <ymax>842.7754206021252</ymax>
+    </bndbox>
+</object>
+</annotation>

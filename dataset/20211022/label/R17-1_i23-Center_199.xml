@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>R17-1_i23-Center_199.jpg</filename>
+    <path>IrisDefect-PascalVOC-export/Annotations/R17-1_i23-Center_199.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3488</width>
+        <height>2616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1799.1878875110717</xmin>
+        <ymin>1360.6862824675325</ymin>
+        <xmax>1877.076062887511</xmax>
+        <ymax>1405.3495793978748</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1798.3069087688218</xmin>
+        <ymin>1447.3707201889022</ymin>
+        <xmax>1898.7746899911424</xmax>
+        <ymax>1493.0474468713107</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1783.5837023914967</xmin>
+        <ymin>1729.38167798111</ymin>
+        <xmax>1897.519596988485</xmax>
+        <ymax>1767.7231036009448</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1769.656997342781</xmin>
+        <ymin>1601.5085596221961</ymin>
+        <xmax>1930.5985385296722</xmax>
+        <ymax>1708.5219155844156</ymax>
+    </bndbox>
+</object><object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1795.8208591674047</xmin>
+        <ymin>2061.159275383707</ymin>
+        <xmax>1967.177258635961</xmax>
+        <ymax>2161.9472771546634</ymax>
+    </bndbox>
+</object>
+</annotation>
